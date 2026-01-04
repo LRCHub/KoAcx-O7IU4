@@ -1,0 +1,63 @@
+# Philosophy no Dance – Philosophy is dance!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+フィロソフィーのダンス 踊れそうじゃない
+過去最高を超えそうじゃない
+Don't stop the dance
+Be sure to find
+踏み出せば そこが道になるから ah
+"こうあるべき"の固定概念
+アップデートしなきゃナンセンス no no no
+心が今 踊る方へ 足を鳴らせ 踊り出せ
+One two three four five 答えのない白紙の問題
+外せば down 当たれば up
+一か八かのレディーショータイム
+ABCD every one
+このフロアでは be the one
+世界を廻せ! 愛を知れ! 人と成れ!
+フィロソフィーのダンス
+踊れそうじゃない?
+大きな波 起こしたくない?
+Don't stop the dance
+And forever ever
+踊り明かせ "君になるまで"
+さぁ 一度きりの人生
+ほら 我がまま 気のまま 思うままにゆけ
+貴方がくれた愛で変われた
+私も愛 伝えてゆきたい
+自分のこと 好きになれた
+この道を進んでゆく
+小さなヒビやトゲなんて
+気に留めもしない
+本者(ほんもの)にいま
+近づいているはず
+(Let's go)
+Philosophy is love?
+Tell me the truth
+迷った日は思い出して
+Don't lose faith
+And remember the days
+どこにいても君は君だから
+Movin' on!
+Look up!
+踊り沸かせこのステージ
+La la la la la la, la la la la la la, la la la
+La la la la la la, la la la la
+We will changing for the world
+譲れない思いだけじゃ
+進めない夜がある
+Don't stop the dance
+And shoot for the stars
+涙さえ連れて輝く
+このステージ
+フィロソフィーのダンス
+踊れそうじゃない?
+大きな波 起こしたくない?
+Don't stop the dance
+And forever ever
+踊り明かせ "君になるまで"
+さぁ 一度きりの人生
+ほら 我がまま 気のまま 思うままにゆけ ah
+```
