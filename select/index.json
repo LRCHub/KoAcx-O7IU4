@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Philosophy is dance!",
+  "base_artist": "Philosophy no Dance",
+  "createdAt": "2026-01-04T06:00:39.773836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Philosophy is dance  (Instrumental)",
+      "artist": "Philosophy no Dance",
+      "has_synced": false,
+      "path": "select/01_Philosophy_is_dance_(Instrumental)_Philosophy_no_Dance.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Philosophy is dance",
+      "artist": "Philosophy no Dance",
+      "has_synced": false,
+      "path": "select/02_Philosophy_is_dance_Philosophy_no_Dance.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Philosophy is dance!",
+      "artist": "フィロソフィーのダンス",
+      "has_synced": false,
+      "path": "select/pl_01_Philosophy_is_dance!_フィロソフィーのダンス.txt"
+    }
+  ]
+}
